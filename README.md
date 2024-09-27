@@ -12,5 +12,5 @@
 ### você pode entrar em contato comigo 📫
 
 @off_.loh._
-ou
+
 mariano.moura@gmail.pr.gov.br
