@@ -1,16 +1,16 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil gatinha(o)🫀
 
-<!--
-**barbara9956/barbara9956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Olá meu nome é Barbara 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou studando no Alura
+- 👯 Estou usando essa plataforma para minha organização
+- 🤔 Gostaria de deixar minhas coisas bem organizada 
+  
+
+
+### você pode entrar em contato comigo 📫
+
+@off_.loh._
+ou
+mariano.moura@gmail.pr.gov.br
